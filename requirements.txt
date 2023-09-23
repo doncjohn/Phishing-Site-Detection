@@ -1,0 +1,10 @@
+uvicorn
+fastapi
+numpy
+pandas
+ipaddress
+requests
+python-whois
+urllib3
+xgboost
+scikit-learn
